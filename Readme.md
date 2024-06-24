@@ -1,6 +1,7 @@
 # 📋KubeTaskManager📋
 
 TaskMaster Pro is a full-stack task management application built with Flask, React, and Kubernetes.
+![Task_manager_UI](https://github.com/bharath-manjunath/Kube-Task-Manager/blob/master/Assets/Task_manager_UI.jpeg)
 
 ## Getting Started
 
